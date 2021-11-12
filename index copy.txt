@@ -152,9 +152,9 @@
 
   <header class="post-header">
     <h1 class="post-title">
-     <span class="font-weight-bold">Ram</span> K.  Mazumder
+     <span class="font-weight-bold">Ram</span class="font-weight-bold"> K.  Mazumder, Ph.D.
     </h1>
-     <p class="desc"><a href="/">PD, CEAE</a>. KU.</p>
+     <p class="desc"><a href="/">Postdoctoral Researcher, Civil, Env & Architectural Engineering,</a> University of Kansas</p>
   </header>
 
   <article>
@@ -173,7 +173,8 @@
     
 
     <div class="clearfix">
-      <p> My research primarily addresses the <code class="language-plaintext highlighter-rouge">risk, reliability, and resilience</code> of civil infrastructure systems subjected to natural hazards. Besides, I work on the performance evaluation of buildings using performance-based engineering concepts. I am interested in developing a holistic framework that incorporates the performance of civil infrastructure systems and buildings into community disaster resilience analysis. I have graduated from the Department of Civil Engineering at Case Western Reserve University. My advisor is Dr. Yue Li. My Ph.D dissertation, titled <code class="language-plaintext highlighter-rouge">Risk-Based Asset Management Framework for Water Distribution Systems</code>, includes developing physically-based pipeline failure prediction model, modeling the functional interdependency between water and road infrastructure systems, and developing risk-informed decision-making tools to support asset management.
+      <p> <code class="language-plaintext highlighter-rouge">Welcome! </code> My research focuses on application of probabilistic methods for <code class="language-plaintext highlighter-rouge">risk, resilience, and functionality </code> assessment of civil infrastructure systems and buildings subjected to natural hazards. I am interested in developing a holistic framework that incorporates the performance of civil infrastructure systems and buildings into community disaster resilience analysis. The overarching goal of my research is to analyze community disaster resilience comprehensively, in collaboration with researchers from various disciplines, to narrow the gaps between physical, economic, and social needs of the community. This website contains information about my academic background and research. <code class="language-plaintext highlighter-rouge">Thank you</code> for visiting my website. If you are interested in learning more about my research or interested in future collaboration, please contact me.
+
 </p>
 
     </div>
@@ -184,12 +185,48 @@
   
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
+
+        <tr>
+          <th scope="row">Sep 10, 2021</th>
+          <td>
+            
+              <a class="news-title" href=""> Article Publish on Reliability Assessment of Water Network</a>
+            
+          </td>
+        </tr>
       
+        <tr>
+          <th scope="row">Aug 24, 2021</th>
+          <td>
+            
+              <a class="news-title" href=""> Article Publish on Seismic Risk Assessment using Fuzzy Logic</a>
+            
+          </td>
+        </tr>
+
+        <tr>
+          <th scope="row">Mar 10, 2021</th>
+          <td>
+            
+              <a class="news-title" href=""> Article Publish on Asset Management of Interdependent Water and Road Networks</a>
+            
+          </td>
+        </tr>
+
+        <tr>
+          <th scope="row">May 21, 2021</th>
+          <td>
+            
+              <a class="news-title" href=""> Ram (as a PI) won two Weather Ready Research from Natural Hazards Center</a>
+            
+          </td>
+        </tr>
+
         <tr>
           <th scope="row">Mar 08, 2021</th>
           <td>
             
-              Ram has been appointed as an Associate Editor of the ASCE Journal of Pipeline Systems Eng.
+              <a class="news-title" href=""> Ram named Associate Editor of the ASCE Journal of Pipeline Systems Eng.</a>
             
           </td>
         </tr>
