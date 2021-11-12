@@ -163,86 +163,8 @@
     <div class="publications">
 
 
-
 <h1>Journals</h1>
 <h5></h5>
-
-
-<div class="row m-0 p-0" style="border-bottom: 1px solid #ddd;">
-    <div class="col-sm-11 p-0">
-      <ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
-  <div class="col-sm-1 p-0 bib-abbr">
-    
-      
-        <a class="badge font-weight-bold danger-color-dark text-uppercase align-middle" href="https://doi.org/10.1061/(ASCE)WR.1943-5452.0001365" target="_blank">
-          ASCE/ASME
-        </a>
-      
-    
-  </div>
-  <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-2 pr-2">
-    
-    <div id="Platanios-2011" class="col p-0">
-      <h5 class="title mb-0">Time-Dependent Reliability Analysis of Buried Water Distribution Network: Combined Finite-Element and Probabilistic Approach</h5>
-      <div class="author">
-        
-              <nobr>Weinan Li</a>,</nobr>
-
-                <em>Ram K. Mazumder</em>,
-                
-                                
-              and
-                  
-                  <nobr>Yue Li</a>.</nobr>
-
-        
-      </div>
-
-      <div>
-        <p class="periodical font-italic">
-          
-            ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 7(4), 04021064.
-          
-        </p>
-      </div>
-    
-      <div class="col p-0">
-        
-          <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Platanios-2019-abstract" role="button" aria-expanded="false" aria-controls="Platanios-2011-abstract">Abstract</a>
-          <a class="badge grey waves-effect font-weight-light mr-1" href="https://doi.org/10.1016/j.strusafe.2020.102047" target="_blank">Link</a>
-
-        
-      </div>
-    
-      
-      <div class="col mt-2 p-0">
-        <div id="Platanios-2011-abstract" class="collapse">
-          <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-            Corrosion deterioration is the predominant factor for a large number of cast iron (CI) water main breaks. The reliability of CI pipelines decreases overtime as corrosion growth on pipe walls significantly reduces the strength of pipeline materials. To predict the reliability of water pipelines accurately, this study used a finite-element analysis (FEA) approach to determine the maximum pipeline stress at various stages of the pipeline’s life. A series of FEAs was performed to consider uncertainties in parameters associated with stress analysis. The circumferential stress was found to be the most critical stress for pipelines. Time-variant circumferential stress was obtained by accounting for the time-dependent corrosion pit growth on the pipeline wall. The time-variant failure probability of pipelines was determined by comparing the circumferential stress and the tensile failure strength of the pipeline at the burst limit state. 
-          </div>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-</div>
-</li></ol>
-    </div>
-    <div class="col-sm-1 align-self-end mt-2 p-0 pr-1">
-      <h3 class="bibliography-year">2021</h3>
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="row m-0 p-0" style="border-bottom: 1px solid #ddd;">
     <div class="col-sm-11 p-0">
